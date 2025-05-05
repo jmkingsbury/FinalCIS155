@@ -1,5 +1,21 @@
 # FinalCIS155
 HydrateMe App
+HydrateMe is a simple mobile application that helps users track their daily water intake. It allows users to set personal goals, log their daily water consumption, view their progress with a visual jug that fills up, and view their hydration history in a calendar format.
+
+Features
+Set a Daily Water Intake Goal: Users can set a custom goal for their daily water intake.
+
+Log Water Consumption: Log each glass of water consumed with one tap.
+
+Visual Jug Progress: A jug fills up as the user drinks more water, showing their progress visually.
+
+View History: Track how much water you drank each day in a calendar history view.
+
+Reset Daily Intake: Reset the water intake for the day with a single tap.
+
+Unit Switching (ml/oz): Choose between milliliters or ounces for tracking water intake.
+
+Reminders: Enable notifications to remind you to drink water at regular intervals
 Open the project in Android Studio:
 
 Open Android Studio, click on Open an existing project, and select the directory where the project is saved.
